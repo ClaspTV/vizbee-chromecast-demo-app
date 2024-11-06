@@ -240,7 +240,7 @@ controls.assignButton(
  * replace the vzbxxxxxxx with Vizbee appID assigned for your app
  */
 let vzbContext = vizbee.framework.ContinuityContext.getInstance();
-vzbContext.start('vzb1000004');
+vzbContext.start('vzb2000001');
 
 // [END] Vizbee Integration
 

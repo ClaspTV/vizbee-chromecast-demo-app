@@ -1,4 +1,4 @@
-# Vizbee-Integrated Chromecast Receiver App
+# Vizbee Chromecast Demo App
 
 This application demonstrates how to integrate Vizbee casting functionality into a Google Cast Application Framework (CAF) receiver app. It combines the capabilities of both platforms to provide a comprehensive casting solution.
 
@@ -97,7 +97,7 @@ Common issues and solutions:
 ## Documentation References
 
 - [Google Cast Receiver Overview](https://developers.google.com/cast/docs/caf_receiver/)
-- [Vizbee Chromecast TV Developer Guide](https://developer.vizbee.tv/continuity/chromecast/integration-guide/initialization)
+- [Vizbee Chromecast Developer Guide](https://developer.vizbee.tv/continuity/chromecast/integration-guide/initialization)
 - [Vizbee Documentation](https://developer.vizbee.tv)
 
 ## License
